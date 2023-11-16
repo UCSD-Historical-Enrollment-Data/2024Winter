@@ -1,0 +1,25 @@
+# SPPS
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| SPPS 200A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/SPPS%20200A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/SPPS%20200A.png) |  |
+| SPPS 202 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/SPPS%20202.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/SPPS%20202.png) |  |
+| SPPS 207 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/SPPS%20207.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/SPPS%20207.png) |  |
+| SPPS 208 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/SPPS%20208.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/SPPS%20208.png) |  |
+| SPPS 212B | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/SPPS%20212B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/SPPS%20212B.png) |  |
+| SPPS 212D | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/SPPS%20212D.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/SPPS%20212D.png) |  |
+| SPPS 216 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/SPPS%20216.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/SPPS%20216.png) |  |
+| SPPS 218A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/SPPS%20218A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/SPPS%20218A.png) |  |
+| SPPS 223 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/SPPS%20223.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/SPPS%20223.png) |  |
+| SPPS 224 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/SPPS%20224.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/SPPS%20224.png) |  |
+| SPPS 234 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/SPPS%20234.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/SPPS%20234.png) |  |
+| SPPS 248 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/SPPS%20248.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/SPPS%20248.png) |  |
+| SPPS 251 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/SPPS%20251.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/SPPS%20251.png) |  |
+| SPPS 264B | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/SPPS%20264B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/SPPS%20264B.png) |  |
+| SPPS 270B | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/SPPS%20270B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/SPPS%20270B.png) |  |
+| SPPS 274 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/SPPS%20274.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/SPPS%20274.png) |  |
+| SPPS 278 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/SPPS%20278.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/SPPS%20278.png) |  |
+| SPPS 279 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/SPPS%20279.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/SPPS%20279.png) |  |
+| SPPS 282 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/SPPS%20282.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/SPPS%20282.png) |  |
+| SPPS 287 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/SPPS%20287.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/SPPS%20287.png) |  |
+| SPPS 289 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/SPPS%20289.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/SPPS%20289.png) |  |

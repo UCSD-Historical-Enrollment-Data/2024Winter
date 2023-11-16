@@ -1,0 +1,11 @@
+# COGR
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| COGR 200C | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/COGR%20200C.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/COGR%20200C.png) |  |
+| COGR 201D | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/COGR%20201D.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/COGR%20201D.png) |  |
+| COGR 225C | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/COGR%20225C.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/COGR%20225C.png) |  |
+| COGR 225D | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/COGR%20225D.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/COGR%20225D.png) |  |
+| COGR 275 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/COGR%20275.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/COGR%20275.png) | Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/section/COGR%20275_A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_section/COGR%20275_A.png)<br>Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/section/COGR%20275_B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_section/COGR%20275_B.png) |
+| COGR 280 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/COGR%20280.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/COGR%20280.png) |  |
+| COGR 294 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/COGR%20294.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/COGR%20294.png) |  |

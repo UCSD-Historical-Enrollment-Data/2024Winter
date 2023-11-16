@@ -1,0 +1,6 @@
+# SURG
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| SURG 261 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/SURG%20261.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/SURG%20261.png) |  |
+| SURG 296 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/SURG%20296.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/SURG%20296.png) | Section 001: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/section/SURG%20296_001.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_section/SURG%20296_001.png)<br>Section 002: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/section/SURG%20296_002.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_section/SURG%20296_002.png)<br>Section 003: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/section/SURG%20296_003.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_section/SURG%20296_003.png) |

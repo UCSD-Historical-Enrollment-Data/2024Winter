@@ -1,0 +1,26 @@
+# ETHN
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| ETHN 100B | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ETHN%20100B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ETHN%20100B.png) |  |
+| ETHN 100H | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ETHN%20100H.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ETHN%20100H.png) |  |
+| ETHN 101 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ETHN%20101.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ETHN%20101.png) |  |
+| ETHN 102 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ETHN%20102.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ETHN%20102.png) |  |
+| ETHN 103 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ETHN%20103.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ETHN%20103.png) |  |
+| ETHN 104 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ETHN%20104.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ETHN%20104.png) |  |
+| ETHN 112A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ETHN%20112A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ETHN%20112A.png) |  |
+| ETHN 114A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ETHN%20114A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ETHN%20114A.png) |  |
+| ETHN 116 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ETHN%20116.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ETHN%20116.png) |  |
+| ETHN 123 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ETHN%20123.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ETHN%20123.png) |  |
+| ETHN 138 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ETHN%20138.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ETHN%20138.png) |  |
+| ETHN 154 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ETHN%20154.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ETHN%20154.png) |  |
+| ETHN 163E | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ETHN%20163E.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ETHN%20163E.png) |  |
+| ETHN 164 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ETHN%20164.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ETHN%20164.png) |  |
+| ETHN 170 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ETHN%20170.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ETHN%20170.png) |  |
+| ETHN 179 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ETHN%20179.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ETHN%20179.png) |  |
+| ETHN 198 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ETHN%20198.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ETHN%20198.png) |  |
+| ETHN 200B | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ETHN%20200B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ETHN%20200B.png) |  |
+| ETHN 201 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ETHN%20201.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ETHN%20201.png) |  |
+| ETHN 214A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ETHN%20214A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ETHN%20214A.png) |  |
+| ETHN 230 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ETHN%20230.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ETHN%20230.png) |  |
+| ETHN 2R | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ETHN%202R.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ETHN%202R.png) |  |

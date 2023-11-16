@@ -1,0 +1,11 @@
+# LTCS
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| LTCS 108 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/LTCS%20108.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/LTCS%20108.png) |  |
+| LTCS 119 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/LTCS%20119.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/LTCS%20119.png) |  |
+| LTCS 165 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/LTCS%20165.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/LTCS%20165.png) |  |
+| LTCS 172 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/LTCS%20172.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/LTCS%20172.png) |  |
+| LTCS 180 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/LTCS%20180.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/LTCS%20180.png) |  |
+| LTCS 225 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/LTCS%20225.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/LTCS%20225.png) |  |
+| LTCS 87 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/LTCS%2087.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/LTCS%2087.png) | Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/section/LTCS%2087_A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_section/LTCS%2087_A.png)<br>Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/section/LTCS%2087_B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_section/LTCS%2087_B.png) |

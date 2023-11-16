@@ -1,0 +1,6 @@
+# TDPF
+
+| Course | Overall | Section |
+| ------ | ------- | ------- |
+| TDPF 161 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/TDPF%20161.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/TDPF%20161.png) |  |
+| TDPF 163 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/TDPF%20163.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/TDPF%20163.png) | Section A: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/section/TDPF%20163_A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_section/TDPF%20163_A.png)<br>Section B: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/section/TDPF%20163_B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_section/TDPF%20163_B.png)<br>Section C: [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/section/TDPF%20163_C.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_section/TDPF%20163_C.png) |

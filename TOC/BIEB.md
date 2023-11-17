@@ -2,7 +2,7 @@
 
 | Course | Overall | Section |
 | ------ | ------- | ------- |
-| BIEB 121 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/BIEB%20121.csv) |  |
+| BIEB 121 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/BIEB%20121.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/BIEB%20121.png) |  |
 | BIEB 123 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/BIEB%20123.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/BIEB%20123.png) |  |
 | BIEB 128 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/BIEB%20128.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/BIEB%20128.png) |  |
 | BIEB 134 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/BIEB%20134.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/BIEB%20134.png) |  |

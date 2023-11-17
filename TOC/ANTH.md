@@ -4,7 +4,7 @@
 | ------ | ------- | ------- |
 | ANTH 102 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ANTH%20102.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ANTH%20102.png) |  |
 | ANTH 106 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ANTH%20106.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ANTH%20106.png) |  |
-| ANTH 107 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ANTH%20107.csv) |  |
+| ANTH 107 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ANTH%20107.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ANTH%20107.png) |  |
 | ANTH 110 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ANTH%20110.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ANTH%20110.png) |  |
 | ANTH 111 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ANTH%20111.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ANTH%20111.png) |  |
 | ANTH 128A | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ANTH%20128A.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ANTH%20128A.png) |  |
@@ -14,7 +14,7 @@
 | ANTH 23 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ANTH%2023.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ANTH%2023.png) |  |
 | ANTH 246 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ANTH%20246.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ANTH%20246.png) |  |
 | ANTH 260 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ANTH%20260.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ANTH%20260.png) |  |
-| ANTH 269 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ANTH%20269.csv) |  |
+| ANTH 269 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ANTH%20269.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ANTH%20269.png) |  |
 | ANTH 273 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ANTH%20273.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ANTH%20273.png) |  |
 | ANTH 279 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ANTH%20279.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ANTH%20279.png) |  |
 | ANTH 280B | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/ANTH%20280B.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/ANTH%20280B.png) |  |

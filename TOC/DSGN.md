@@ -7,3 +7,4 @@
 | DSGN 118 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/DSGN%20118.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/DSGN%20118.png) |  |
 | DSGN 119 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/DSGN%20119.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/DSGN%20119.png) |  |
 | DSGN 161 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/DSGN%20161.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/DSGN%20161.png) |  |
+| DSGN 2 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/DSGN%202.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/DSGN%202.png) |  |

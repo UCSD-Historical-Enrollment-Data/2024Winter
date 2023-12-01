@@ -2,5 +2,5 @@
 
 | Course | Overall | Section |
 | ------ | ------- | ------- |
-| GSS 22 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/GSS%2022.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/GSS%2022.png) |  |
-| GSS 27 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/GSS%2027.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/GSS%2027.png) |  |
+| GSS 22 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/GSS%2022.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/GSS%2022.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall_wide/GSS%2022.png) |  |
+| GSS 27 | [csv](https://github.com/UCSD-Historical-Enrollment-Data/2024Winter/blob/main/overall/GSS%2027.csv), [png](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall/GSS%2027.png), [wide](https://raw.githubusercontent.com/UCSD-Historical-Enrollment-Data/2024Winter/main/plot_overall_wide/GSS%2027.png) |  |

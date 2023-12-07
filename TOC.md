@@ -10,6 +10,7 @@
 | ANES | [ANES](TOC/ANES.md) |
 | ANSC | [ANSC](TOC/ANSC.md) |
 | ANTH | [ANTH](TOC/ANTH.md) |
+| AUD | [AUD](TOC/AUD.md) |
 | AWP | [AWP](TOC/AWP.md) |
 | BENG | [BENG](TOC/BENG.md) |
 | BGGN | [BGGN](TOC/BGGN.md) |

@@ -150,6 +150,7 @@
 | SOCG | [SOCG](TOC/SOCG.md) |
 | SOCI | [SOCI](TOC/SOCI.md) |
 | SOMC | [SOMC](TOC/SOMC.md) |
+| SOMI | [SOMI](TOC/SOMI.md) |
 | SPPH | [SPPH](TOC/SPPH.md) |
 | SPPS | [SPPS](TOC/SPPS.md) |
 | SURG | [SURG](TOC/SURG.md) |
